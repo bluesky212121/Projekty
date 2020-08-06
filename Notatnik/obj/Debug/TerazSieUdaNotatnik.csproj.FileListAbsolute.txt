@@ -1,0 +1,9 @@
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\bin\Debug\TerazSieUdaNotatnik.exe.config
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\bin\Debug\TerazSieUdaNotatnik.exe
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\bin\Debug\TerazSieUdaNotatnik.pdb
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\obj\Debug\TerazSieUdaNotatnik.csprojAssemblyReference.cache
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\obj\Debug\TerazSieUdaNotatnik.Form1.resources
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\obj\Debug\TerazSieUdaNotatnik.Properties.Resources.resources
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\obj\Debug\TerazSieUdaNotatnik.csproj.GenerateResource.cache
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\obj\Debug\TerazSieUdaNotatnik.exe
+C:\Users\Majlosz\source\repos\TerazSieUdaNotatnik\obj\Debug\TerazSieUdaNotatnik.pdb
