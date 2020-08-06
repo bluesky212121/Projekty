@@ -1,0 +1,9 @@
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.exe.config
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.exe
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.pdb
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csprojAssemblyReference.cache
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.Form1.resources
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.Properties.Resources.resources
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csproj.GenerateResource.cache
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.exe
+C:\Users\Majlosz\source\repos\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.pdb

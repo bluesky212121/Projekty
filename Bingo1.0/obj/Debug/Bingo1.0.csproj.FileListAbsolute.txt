@@ -1,0 +1,9 @@
+C:\Users\Majlosz\source\repos\Bingo1.0\bin\Debug\Bingo1.0.exe.config
+C:\Users\Majlosz\source\repos\Bingo1.0\bin\Debug\Bingo1.0.exe
+C:\Users\Majlosz\source\repos\Bingo1.0\bin\Debug\Bingo1.0.pdb
+C:\Users\Majlosz\source\repos\Bingo1.0\obj\Debug\Bingo1.0.csprojAssemblyReference.cache
+C:\Users\Majlosz\source\repos\Bingo1.0\obj\Debug\Bingo1._0.Form1.resources
+C:\Users\Majlosz\source\repos\Bingo1.0\obj\Debug\Bingo1._0.Properties.Resources.resources
+C:\Users\Majlosz\source\repos\Bingo1.0\obj\Debug\Bingo1.0.csproj.GenerateResource.cache
+C:\Users\Majlosz\source\repos\Bingo1.0\obj\Debug\Bingo1.0.exe
+C:\Users\Majlosz\source\repos\Bingo1.0\obj\Debug\Bingo1.0.pdb
