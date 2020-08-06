@@ -1,0 +1,9 @@
+C:\Users\Majlosz\source\repos\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Majlosz\source\repos\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Majlosz\source\repos\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Majlosz\source\repos\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Majlosz\source\repos\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Majlosz\source\repos\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Majlosz\source\repos\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Majlosz\source\repos\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Majlosz\source\repos\Kalkulator\obj\Debug\Kalkulator.pdb
